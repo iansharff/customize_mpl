@@ -1,6 +1,5 @@
-<img src="images/mpl_logo.svg" width="400"> <img src="images/seaborn_logo.svg" width="400">
-
 # **How to Customize Matplotlib and Seaborn Plots with .mplstyle Sheets**
+<img src="images/mpl_logo.svg" width="400"> <img src="images/seaborn_logo.svg" width="400">
 
 ### Author: Ian Sharff
 ### GitHub Repository: <a href="https://github.com/iansharff/customize_mpl">github.com/iansharff/customize_mpl</a>
