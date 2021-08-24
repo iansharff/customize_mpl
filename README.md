@@ -10,4 +10,4 @@ If you are new to creating data visualizations with Python, it is not unlikely t
 * Exercise greater control over the fonts and colors used in your plots
 * Decide when to use Seaborn vs. Matplotlib
 
-For more information, take a look at the [notebook](custom_mpl.ipynb) and the post on <a href="">Medium</a>
+For more information, take a look at the [notebook](custom_mpl.ipynb) and the post on <a href="https://ian-sharff.medium.com/custom-mpl-ebb2c8bb91d7">Medium</a>
